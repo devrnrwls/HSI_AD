@@ -1,0 +1,3 @@
+[submodule "HyperAD"]
+	path = HyperAD
+	url = https://github.com/WiseGamgee/HyperAD.git
